@@ -66,7 +66,7 @@
 }
 .main,
 .sidebar{
-  background: #f0f0f0;
+  background: #232323;
   padding: 40px;
   min-height: 400px;
 }
@@ -86,7 +86,7 @@
 .section a{
   font-size: 16px;
   line-height: 27px;
-  color: #7f7f7f;
+  color: #232323;
 }
 .section a{
   margin-top: 45px;
@@ -96,7 +96,7 @@
 .footer{
   width: 1110px;
   margin: 0 auto;
-  background: #f0f0f0;
+  background: #232323;
   padding: 40px;
   display: flex;
   justify-content: space-between;
